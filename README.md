@@ -3,5 +3,5 @@ Sample cloud-native application with 10 microservices showcasing Kubernetes. A d
 [https://github.com/GoogleCloudPlatform/microservices-demo]
 
 These repository, can be used to deploy microservices-demo website by Google.
-Microservice-demo Wedsite is deployed in K8's envorniment.
+Microservice-demo Website is deployed in K8's envorniment.
 Created Helm Charts for all microservices, to reuse common Deployment and Service configurations for the services.
